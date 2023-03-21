@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tenrupee10" target="blank"><img src="https://img.shields.io/twitter/follow/tenrupee10?logo=twitter&style=for-the-badge" alt="tenrupee10" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 💬 Ask me about **MERN**
 
